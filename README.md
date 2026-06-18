@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Bharat8856/Leetcode_java/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Bharat8856/Leetcode_java/tree/master/0231-power-of-two) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Bharat8856/Leetcode_java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0258-add-digits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0357-count-numbers-with-unique-digits) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bharat8856/Leetcode_java/tree/master/2769-find-the-maximum-achievable-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bharat8856/Leetcode_java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Bharat8856/Leetcode_java/tree/master/0231-power-of-two) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -90,8 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0357-count-numbers-with-unique-digits) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Backtracking
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0357-count-numbers-with-unique-digits) |
+## Memoization
+|  |
+| ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
