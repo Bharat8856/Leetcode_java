@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Bharat8856/Leetcode_java/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Bharat8856/Leetcode_java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0258-add-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bharat8856/Leetcode_java/tree/master/2769-find-the-maximum-achievable-number) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Bharat8856/Leetcode_java/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
