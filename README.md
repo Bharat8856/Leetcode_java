@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bharat8856/Leetcode_java/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Bharat8856/Leetcode_java/tree/master/0141-linked-list-cycle) |
+| [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Bharat8856/Leetcode_java/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bharat8856/Leetcode_java/tree/master/0075-sort-colors) |
+| [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharat8856/Leetcode_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0977-squares-of-a-sorted-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Bharat8856/Leetcode_java/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Simulation
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Bharat8856/Leetcode_java/tree/master/0171-excel-sheet-column-number) |
+| [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/Bharat8856/Leetcode_java/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Bharat8856/Leetcode_java/tree/master/1768-merge-strings-alternately) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bharat8856/Leetcode_java/tree/master/2024-maximize-the-confusion-of-an-exam) |
