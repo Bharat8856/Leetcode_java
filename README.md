@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Bharat8856/Leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bharat8856/Leetcode_java/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Bharat8856/Leetcode_java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Bharat8856/Leetcode_java/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Bharat8856/Leetcode_java/tree/master/0283-move-zeroes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharat8856/Leetcode_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Bharat8856/Leetcode_java/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Bharat8856/Leetcode_java/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Bharat8856/Leetcode_java/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Bharat8856/Leetcode_java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0258-add-digits) |
