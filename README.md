@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0258-add-digits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0357-count-numbers-with-unique-digits) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharat8856/Leetcode_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bharat8856/Leetcode_java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bharat8856/Leetcode_java/tree/master/2769-find-the-maximum-achievable-number) |
