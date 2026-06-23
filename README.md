@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bharat8856/Leetcode_java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/Bharat8856/Leetcode_java/tree/master/0459-repeated-substring-pattern) |
+| [0709-to-lower-case](https://github.com/Bharat8856/Leetcode_java/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/Bharat8856/Leetcode_java/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Bharat8856/Leetcode_java/tree/master/1768-merge-strings-alternately) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bharat8856/Leetcode_java/tree/master/2024-maximize-the-confusion-of-an-exam) |
