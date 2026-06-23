@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Bharat8856/Leetcode_java/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Bharat8856/Leetcode_java/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0896-monotonic-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Bharat8856/Leetcode_java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharat8856/Leetcode_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Bharat8856/Leetcode_java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0258-add-digits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0357-count-numbers-with-unique-digits) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharat8856/Leetcode_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bharat8856/Leetcode_java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -191,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Bharat8856/Leetcode_java/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
