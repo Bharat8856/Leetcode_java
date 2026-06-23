@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Bharat8856/Leetcode_java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharat8856/Leetcode_java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/Bharat8856/Leetcode_java/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Bharat8856/Leetcode_java/tree/master/1672-richest-customer-wealth) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Bharat8856/Leetcode_java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharat8856/Leetcode_java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Linked List
 |  |
