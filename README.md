@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bharat8856/Leetcode_java/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Bharat8856/Leetcode_java/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Bharat8856/Leetcode_java/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Bharat8856/Leetcode_java/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Bharat8856/Leetcode_java/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Bharat8856/Leetcode_java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0258-add-digits) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bharat8856/Leetcode_java/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Bharat8856/Leetcode_java/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bharat8856/Leetcode_java/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Bharat8856/Leetcode_java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Bharat8856/Leetcode_java/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Bharat8856/Leetcode_java/tree/master/0682-baseball-game) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bharat8856/Leetcode_java/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bharat8856/Leetcode_java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Bharat8856/Leetcode_java/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Bharat8856/Leetcode_java/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Bharat8856/Leetcode_java/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Bharat8856/Leetcode_java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
