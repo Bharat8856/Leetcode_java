@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bharat8856/Leetcode_java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bharat8856/Leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Bharat8856/Leetcode_java/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bharat8856/Leetcode_java/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Bharat8856/Leetcode_java/tree/master/0054-spiral-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Bharat8856/Leetcode_java/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bharat8856/Leetcode_java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bharat8856/Leetcode_java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Bharat8856/Leetcode_java/tree/master/0075-sort-colors) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Bharat8856/Leetcode_java/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Bharat8856/Leetcode_java/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Bharat8856/Leetcode_java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
