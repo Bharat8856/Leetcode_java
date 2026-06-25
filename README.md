@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharat8856/Leetcode_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/Bharat8856/Leetcode_java/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Bharat8856/Leetcode_java/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Bharat8856/Leetcode_java/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Bharat8856/Leetcode_java/tree/master/0860-lemonade-change) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharat8856/Leetcode_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/Bharat8856/Leetcode_java/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0977-squares-of-a-sorted-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Bharat8856/Leetcode_java/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Bharat8856/Leetcode_java/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
 ## Geometry
@@ -242,5 +245,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Bharat8856/Leetcode_java/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
