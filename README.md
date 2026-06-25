@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Bharat8856/Leetcode_java/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Bharat8856/Leetcode_java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharat8856/Leetcode_java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1550-three-consecutive-odds](https://github.com/Bharat8856/Leetcode_java/tree/master/1550-three-consecutive-odds) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Bharat8856/Leetcode_java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharat8856/Leetcode_java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Linked List
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
