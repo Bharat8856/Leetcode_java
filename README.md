@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Bharat8856/Leetcode_java/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Bharat8856/Leetcode_java/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bharat8856/Leetcode_java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Bharat8856/Leetcode_java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharat8856/Leetcode_java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bharat8856/Leetcode_java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Linked List
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Bharat8856/Leetcode_java/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Bharat8856/Leetcode_java/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bharat8856/Leetcode_java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Geometry
 |  |
 | ------- |
