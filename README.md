@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bharat8856/Leetcode_java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Bharat8856/Leetcode_java/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharat8856/Leetcode_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bharat8856/Leetcode_java/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Bharat8856/Leetcode_java/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Bharat8856/Leetcode_java/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Bharat8856/Leetcode_java/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Bharat8856/Leetcode_java/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Bharat8856/Leetcode_java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0977-squares-of-a-sorted-array) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bharat8856/Leetcode_java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Bharat8856/Leetcode_java/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharat8856/Leetcode_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Bharat8856/Leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bharat8856/Leetcode_java/tree/master/0035-search-insert-position) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Bharat8856/Leetcode_java/tree/master/0704-binary-search) |
