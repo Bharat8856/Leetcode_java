@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Bharat8856/Leetcode_java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Bharat8856/Leetcode_java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0283-move-zeroes](https://github.com/Bharat8856/Leetcode_java/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bharat8856/Leetcode_java/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Bharat8856/Leetcode_java/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Bharat8856/Leetcode_java/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Bharat8856/Leetcode_java/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Bharat8856/Leetcode_java/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0912-sort-an-array) |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
