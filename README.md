@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Bharat8856/Leetcode_java/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/Bharat8856/Leetcode_java/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Bharat8856/Leetcode_java/tree/master/0709-to-lower-case) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharat8856/Leetcode_java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Bharat8856/Leetcode_java/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bharat8856/Leetcode_java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Bharat8856/Leetcode_java/tree/master/1768-merge-strings-alternately) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Bharat8856/Leetcode_java/tree/master/0682-baseball-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharat8856/Leetcode_java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Bharat8856/Leetcode_java/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Bharat8856/Leetcode_java/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharat8856/Leetcode_java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bharat8856/Leetcode_java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Geometry
 | Problem Name | Difficulty |
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bharat8856/Leetcode_java/tree/master/1757-recyclable-and-low-fat-products) |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharat8856/Leetcode_java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
