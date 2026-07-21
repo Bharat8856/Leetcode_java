@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Bharat8856/Leetcode_java/tree/main/0175-combine-two-tables/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bharat8856/Leetcode_java/tree/master/1757-recyclable-and-low-fat-products) |
 ## Monotonic Stack
 | Problem Name | Difficulty |
