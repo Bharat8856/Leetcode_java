@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharat8856/Leetcode_java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bharat8856/Leetcode_java/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3019-number-of-changing-keys](https://github.com/Bharat8856/Leetcode_java/tree/master/3019-number-of-changing-keys) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharat8856/Leetcode_java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 <!---LeetCode Topics End-->
