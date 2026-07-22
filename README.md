@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Bharat8856/Leetcode_java/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Bharat8856/Leetcode_java/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Bharat8856/Leetcode_java/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Bharat8856/Leetcode_java/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Bharat8856/Leetcode_java/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0357-count-numbers-with-unique-digits) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharat8856/Leetcode_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0877-stone-game](https://github.com/Bharat8856/Leetcode_java/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Bharat8856/Leetcode_java/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bharat8856/Leetcode_java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Bharat8856/Leetcode_java/tree/master/0062-unique-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0357-count-numbers-with-unique-digits) |
+| [0877-stone-game](https://github.com/Bharat8856/Leetcode_java/tree/main/0877-stone-game/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Bharat8856/Leetcode_java/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
