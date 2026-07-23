@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Bharat8856/Leetcode_java/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0383-ransom-note](https://github.com/Bharat8856/Leetcode_java/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bharat8856/Leetcode_java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Bharat8856/Leetcode_java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Bharat8856/Leetcode_java/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Bharat8856/Leetcode_java/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Bharat8856/Leetcode_java/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bharat8856/Leetcode_java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/Bharat8856/Leetcode_java/tree/master/0459-repeated-substring-pattern) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Bharat8856/Leetcode_java/tree/main/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Bharat8856/Leetcode_java/tree/master/1189-maximum-number-of-balloons) |
 ## String Matching
 | Problem Name | Difficulty |
