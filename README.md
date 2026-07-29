@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Bharat8856/Leetcode_java/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Bharat8856/Leetcode_java/tree/main/0184-department-highest-salary/) | Medium |
 | [0511-game-play-analysis-i](https://github.com/Bharat8856/Leetcode_java/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Bharat8856/Leetcode_java/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/Bharat8856/Leetcode_java/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/Bharat8856/Leetcode_java/tree/main/0619-biggest-single-number/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bharat8856/Leetcode_java/tree/master/1757-recyclable-and-low-fat-products) |
