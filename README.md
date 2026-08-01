@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Bharat8856/Leetcode_java/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Bharat8856/Leetcode_java/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Bharat8856/Leetcode_java/tree/main/1260-shift-2d-grid/) | Easy |
+| [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharat8856/Leetcode_java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bharat8856/Leetcode_java/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3019-number-of-changing-keys](https://github.com/Bharat8856/Leetcode_java/tree/master/3019-number-of-changing-keys) |
+| [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Dynamic Programming
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Bharat8856/Leetcode_java/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharat8856/Leetcode_java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
