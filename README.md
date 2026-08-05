@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Bharat8856/Leetcode_java/tree/master/2769-find-the-maximum-achievable-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bharat8856/Leetcode_java/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Bharat8856/Leetcode_java/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Bharat8856/Leetcode_java/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Bharat8856/Leetcode_java/tree/main/1260-shift-2d-grid/) | Easy |
 | [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Bharat8856/Leetcode_java/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
