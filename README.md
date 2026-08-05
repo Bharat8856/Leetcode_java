@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharat8856/Leetcode_java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1550-three-consecutive-odds](https://github.com/Bharat8856/Leetcode_java/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Bharat8856/Leetcode_java/tree/master/1572-matrix-diagonal-sum) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Bharat8856/Leetcode_java/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Bharat8856/Leetcode_java/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bharat8856/Leetcode_java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Bharat8856/Leetcode_java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharat8856/Leetcode_java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Bharat8856/Leetcode_java/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bharat8856/Leetcode_java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bharat8856/Leetcode_java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Bharat8856/Leetcode_java/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Bharat8856/Leetcode_java/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bharat8856/Leetcode_java/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bharat8856/Leetcode_java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## String
