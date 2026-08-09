@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Bharat8856/Leetcode_java/tree/main/2235-add-two-integers/) | Easy |
 | [2582-pass-the-pillow](https://github.com/Bharat8856/Leetcode_java/tree/main/2582-pass-the-pillow/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bharat8856/Leetcode_java/tree/master/2769-find-the-maximum-achievable-number) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Bharat8856/Leetcode_java/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bharat8856/Leetcode_java/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Bharat8856/Leetcode_java/tree/main/1260-shift-2d-grid/) | Easy |
 | [2582-pass-the-pillow](https://github.com/Bharat8856/Leetcode_java/tree/main/2582-pass-the-pillow/) | Easy |
 | [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Bharat8856/Leetcode_java/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Bharat8856/Leetcode_java/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
