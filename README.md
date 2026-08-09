@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Bharat8856/Leetcode_java/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bharat8856/Leetcode_java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Bharat8856/Leetcode_java/tree/main/2235-add-two-integers/) | Easy |
+| [2582-pass-the-pillow](https://github.com/Bharat8856/Leetcode_java/tree/main/2582-pass-the-pillow/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bharat8856/Leetcode_java/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Bharat8856/Leetcode_java/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Bharat8856/Leetcode_java/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Bharat8856/Leetcode_java/tree/main/1260-shift-2d-grid/) | Easy |
+| [2582-pass-the-pillow](https://github.com/Bharat8856/Leetcode_java/tree/main/2582-pass-the-pillow/) | Easy |
 | [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Bharat8856/Leetcode_java/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Binary Search
