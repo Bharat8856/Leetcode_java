@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/Bharat8856/Leetcode_java/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0396-rotate-function](https://github.com/Bharat8856/Leetcode_java/tree/main/0396-rotate-function/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharat8856/Leetcode_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Bharat8856/Leetcode_java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bharat8856/Leetcode_java/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0357-count-numbers-with-unique-digits) |
+| [0396-rotate-function](https://github.com/Bharat8856/Leetcode_java/tree/main/0396-rotate-function/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bharat8856/Leetcode_java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharat8856/Leetcode_java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Bharat8856/Leetcode_java/tree/main/0877-stone-game/) | Medium |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Bharat8856/Leetcode_java/tree/master/0062-unique-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0357-count-numbers-with-unique-digits) |
+| [0396-rotate-function](https://github.com/Bharat8856/Leetcode_java/tree/main/0396-rotate-function/) | Medium |
 | [0877-stone-game](https://github.com/Bharat8856/Leetcode_java/tree/main/0877-stone-game/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
