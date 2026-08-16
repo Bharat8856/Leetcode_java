@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bharat8856/Leetcode_java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bharat8856/Leetcode_java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bharat8856/Leetcode_java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Bharat8856/Leetcode_java/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Bharat8856/Leetcode_java/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bharat8856/Leetcode_java/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Bharat8856/Leetcode_java/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1881-maximum-value-after-insertion](https://github.com/Bharat8856/Leetcode_java/tree/main/1881-maximum-value-after-insertion/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharat8856/Leetcode_java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bharat8856/Leetcode_java/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Bharat8856/Leetcode_java/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/Bharat8856/Leetcode_java/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -397,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Bharat8856/Leetcode_java/tree/main/0877-stone-game/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Bharat8856/Leetcode_java/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
