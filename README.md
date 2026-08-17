@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Bharat8856/Leetcode_java/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Bharat8856/Leetcode_java/tree/main/1884-egg-drop-with-2-eggs-and-n-floors/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bharat8856/Leetcode_java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Bharat8856/Leetcode_java/tree/main/2235-add-two-integers/) | Easy |
 | [2582-pass-the-pillow](https://github.com/Bharat8856/Leetcode_java/tree/main/2582-pass-the-pillow/) | Easy |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Bharat8856/Leetcode_java/tree/main/0396-rotate-function/) | Medium |
 | [0877-stone-game](https://github.com/Bharat8856/Leetcode_java/tree/main/0877-stone-game/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Bharat8856/Leetcode_java/tree/main/1884-egg-drop-with-2-eggs-and-n-floors/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Bharat8856/Leetcode_java/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
 ## Backtracking
