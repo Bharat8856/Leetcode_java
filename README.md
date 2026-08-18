@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Bharat8856/Leetcode_java/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1487-making-file-names-unique](https://github.com/Bharat8856/Leetcode_java/tree/master/1487-making-file-names-unique) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Bharat8856/Leetcode_java/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bharat8856/Leetcode_java/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1881-maximum-value-after-insertion](https://github.com/Bharat8856/Leetcode_java/tree/main/1881-maximum-value-after-insertion/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharat8856/Leetcode_java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bharat8856/Leetcode_java/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Bharat8856/Leetcode_java/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bharat8856/Leetcode_java/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/Bharat8856/Leetcode_java/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Bharat8856/Leetcode_java/tree/main/0383-ransom-note/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Bharat8856/Leetcode_java/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Bharat8856/Leetcode_java/tree/master/1189-maximum-number-of-balloons) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Bharat8856/Leetcode_java/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
