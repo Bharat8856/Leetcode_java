@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bharat8856/Leetcode_java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bharat8856/Leetcode_java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bharat8856/Leetcode_java/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Bharat8856/Leetcode_java/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bharat8856/Leetcode_java/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/Bharat8856/Leetcode_java/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bharat8856/Leetcode_java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Bharat8856/Leetcode_java/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Bharat8856/Leetcode_java/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bharat8856/Leetcode_java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2582-pass-the-pillow](https://github.com/Bharat8856/Leetcode_java/tree/main/2582-pass-the-pillow/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
