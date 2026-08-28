@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bharat8856/Leetcode_java/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/Bharat8856/Leetcode_java/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
+| [3210-find-the-encrypted-string](https://github.com/Bharat8856/Leetcode_java/tree/main/3210-find-the-encrypted-string/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
