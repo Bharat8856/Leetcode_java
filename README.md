@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-making-file-names-unique](https://github.com/Bharat8856/Leetcode_java/tree/master/1487-making-file-names-unique) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Bharat8856/Leetcode_java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bharat8856/Leetcode_java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/Bharat8856/Leetcode_java/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Bharat8856/Leetcode_java/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Bharat8856/Leetcode_java/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Bharat8856/Leetcode_java/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/Bharat8856/Leetcode_java/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1487-making-file-names-unique](https://github.com/Bharat8856/Leetcode_java/tree/master/1487-making-file-names-unique) |
+| [1512-number-of-good-pairs](https://github.com/Bharat8856/Leetcode_java/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Bharat8856/Leetcode_java/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bharat8856/Leetcode_java/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 ## Two Pointers
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Bharat8856/Leetcode_java/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Bharat8856/Leetcode_java/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1512-number-of-good-pairs](https://github.com/Bharat8856/Leetcode_java/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bharat8856/Leetcode_java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Bharat8856/Leetcode_java/tree/main/0383-ransom-note/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Bharat8856/Leetcode_java/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Bharat8856/Leetcode_java/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/Bharat8856/Leetcode_java/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Bharat8856/Leetcode_java/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
