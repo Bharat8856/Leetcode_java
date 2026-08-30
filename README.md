@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bharat8856/Leetcode_java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bharat8856/Leetcode_java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bharat8856/Leetcode_java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Bharat8856/Leetcode_java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bharat8856/Leetcode_java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bharat8856/Leetcode_java/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/2460-apply-operations-to-an-array/) | Easy |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Bharat8856/Leetcode_java/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bharat8856/Leetcode_java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1881-maximum-value-after-insertion](https://github.com/Bharat8856/Leetcode_java/tree/main/1881-maximum-value-after-insertion/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Bharat8856/Leetcode_java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Bharat8856/Leetcode_java/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
 ## Geometry
