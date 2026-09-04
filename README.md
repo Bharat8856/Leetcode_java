@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Bharat8856/Leetcode_java/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bharat8856/Leetcode_java/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Bharat8856/Leetcode_java/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bharat8856/Leetcode_java/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3903-smallest-stable-index-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
