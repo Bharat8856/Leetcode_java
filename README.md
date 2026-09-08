@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bharat8856/Leetcode_java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Bharat8856/Leetcode_java/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Bharat8856/Leetcode_java/tree/main/3870-count-commas-in-range/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
