@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Bharat8856/Leetcode_java/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bharat8856/Leetcode_java/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bharat8856/Leetcode_java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Bharat8856/Leetcode_java/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Bharat8856/Leetcode_java/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Bharat8856/Leetcode_java/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Bharat8856/Leetcode_java/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bharat8856/Leetcode_java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Bharat8856/Leetcode_java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Bharat8856/Leetcode_java/tree/master/0342-power-of-four) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Bharat8856/Leetcode_java/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bharat8856/Leetcode_java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Bharat8856/Leetcode_java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
