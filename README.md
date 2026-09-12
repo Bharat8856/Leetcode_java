@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0977-squares-of-a-sorted-array) |
+| [1124-longest-well-performing-interval](https://github.com/Bharat8856/Leetcode_java/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Bharat8856/Leetcode_java/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Bharat8856/Leetcode_java/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Bharat8856/Leetcode_java/tree/main/1260-shift-2d-grid/) | Easy |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1124-longest-well-performing-interval](https://github.com/Bharat8856/Leetcode_java/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Bharat8856/Leetcode_java/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Bharat8856/Leetcode_java/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1124-longest-well-performing-interval](https://github.com/Bharat8856/Leetcode_java/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bharat8856/Leetcode_java/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Bharat8856/Leetcode_java/tree/main/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/Bharat8856/Leetcode_java/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharat8856/Leetcode_java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1124-longest-well-performing-interval](https://github.com/Bharat8856/Leetcode_java/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharat8856/Leetcode_java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1124-longest-well-performing-interval](https://github.com/Bharat8856/Leetcode_java/tree/main/1124-longest-well-performing-interval/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
