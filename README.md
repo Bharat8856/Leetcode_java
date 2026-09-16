@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bharat8856/Leetcode_java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0217-contains-duplicate](https://github.com/Bharat8856/Leetcode_java/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/Bharat8856/Leetcode_java/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Bharat8856/Leetcode_java/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Bharat8856/Leetcode_java/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/Bharat8856/Leetcode_java/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Bharat8856/Leetcode_java/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bharat8856/Leetcode_java/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Bharat8856/Leetcode_java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Bharat8856/Leetcode_java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Bharat8856/Leetcode_java/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
