@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Bharat8856/Leetcode_java/tree/main/3178-find-the-child-who-has-the-ball-after-k-seconds/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Bharat8856/Leetcode_java/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Bharat8856/Leetcode_java/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
 | [3210-find-the-encrypted-string](https://github.com/Bharat8856/Leetcode_java/tree/main/3210-find-the-encrypted-string/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Bharat8856/Leetcode_java/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Bharat8856/Leetcode_java/tree/main/3952-maximum-total-value-of-covered-indices/) | Medium |
