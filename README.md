@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bharat8856/Leetcode_java/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/Bharat8856/Leetcode_java/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Bharat8856/Leetcode_java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0396-rotate-function](https://github.com/Bharat8856/Leetcode_java/tree/main/0396-rotate-function/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bharat8856/Leetcode_java/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Bharat8856/Leetcode_java/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Bharat8856/Leetcode_java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/Bharat8856/Leetcode_java/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Bharat8856/Leetcode_java/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Bharat8856/Leetcode_java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/Bharat8856/Leetcode_java/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Bharat8856/Leetcode_java/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Bharat8856/Leetcode_java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Bharat8856/Leetcode_java/tree/master/0876-middle-of-the-linked-list) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bharat8856/Leetcode_java/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Bharat8856/Leetcode_java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Bharat8856/Leetcode_java/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Bharat8856/Leetcode_java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Bharat8856/Leetcode_java/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Bharat8856/Leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bharat8856/Leetcode_java/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Bharat8856/Leetcode_java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0540-single-element-in-a-sorted-array) |
