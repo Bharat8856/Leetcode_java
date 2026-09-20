@@ -11,6 +11,12 @@ class Solution {
                 res.add(nums2[i]);
             }
         }
-        return res.stream().mapToInt(Integer::intValue).toArray();
+        int[] ans= new int[res.size()];
+        int i=0;
+        for(int x:res){
+            ans[i]=x;
+            i++;
+        }
+        return ans;
     }
 }
