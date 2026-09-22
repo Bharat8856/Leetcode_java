@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Bharat8856/Leetcode_java/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bharat8856/Leetcode_java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Bharat8856/Leetcode_java/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Bharat8856/Leetcode_java/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Bharat8856/Leetcode_java/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Bharat8856/Leetcode_java/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bharat8856/Leetcode_java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Bharat8856/Leetcode_java/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bharat8856/Leetcode_java/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -350,12 +352,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Bharat8856/Leetcode_java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Bharat8856/Leetcode_java/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Bharat8856/Leetcode_java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bharat8856/Leetcode_java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bharat8856/Leetcode_java/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Bharat8856/Leetcode_java/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Bharat8856/Leetcode_java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Bharat8856/Leetcode_java/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bharat8856/Leetcode_java/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/Bharat8856/Leetcode_java/tree/main/3903-smallest-stable-index-i/) | Easy |
