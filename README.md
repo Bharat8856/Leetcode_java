@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Bharat8856/Leetcode_java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/Bharat8856/Leetcode_java/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Bharat8856/Leetcode_java/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Bharat8856/Leetcode_java/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/Bharat8856/Leetcode_java/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Bharat8856/Leetcode_java/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0896-monotonic-array) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Bharat8856/Leetcode_java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Bharat8856/Leetcode_java/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Bharat8856/Leetcode_java/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Bharat8856/Leetcode_java/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Bharat8856/Leetcode_java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Bharat8856/Leetcode_java/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Bharat8856/Leetcode_java/tree/master/2024-maximize-the-confusion-of-an-exam) |
