@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Bharat8856/Leetcode_java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Bharat8856/Leetcode_java/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Bharat8856/Leetcode_java/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Bharat8856/Leetcode_java/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharat8856/Leetcode_java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Bharat8856/Leetcode_java/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bharat8856/Leetcode_java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Bharat8856/Leetcode_java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Bharat8856/Leetcode_java/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Bharat8856/Leetcode_java/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharat8856/Leetcode_java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Bharat8856/Leetcode_java/tree/main/1124-longest-well-performing-interval/) | Medium |
 ## Enumeration
@@ -530,4 +532,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Bharat8856/Leetcode_java/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0901-online-stock-span](https://github.com/Bharat8856/Leetcode_java/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Bharat8856/Leetcode_java/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
