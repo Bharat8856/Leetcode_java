@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Bharat8856/Leetcode_java/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Bharat8856/Leetcode_java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Bharat8856/Leetcode_java/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bharat8856/Leetcode_java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Bharat8856/Leetcode_java/tree/main/0169-majority-element/) | Easy |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Bharat8856/Leetcode_java/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bharat8856/Leetcode_java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Bharat8856/Leetcode_java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Bharat8856/Leetcode_java/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Bharat8856/Leetcode_java/tree/main/0739-daily-temperatures/) | Medium |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bharat8856/Leetcode_java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Bharat8856/Leetcode_java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Bharat8856/Leetcode_java/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Bharat8856/Leetcode_java/tree/main/0901-online-stock-span/) | Medium |
@@ -537,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Bharat8856/Leetcode_java/tree/main/0901-online-stock-span/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bharat8856/Leetcode_java/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
