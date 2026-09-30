@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Bharat8856/Leetcode_java/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Bharat8856/Leetcode_java/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharat8856/Leetcode_java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Bharat8856/Leetcode_java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Bharat8856/Leetcode_java/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bharat8856/Leetcode_java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1487-making-file-names-unique](https://github.com/Bharat8856/Leetcode_java/tree/master/1487-making-file-names-unique) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Bharat8856/Leetcode_java/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Bharat8856/Leetcode_java/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bharat8856/Leetcode_java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Bharat8856/Leetcode_java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Bharat8856/Leetcode_java/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bharat8856/Leetcode_java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3174-clear-digits](https://github.com/Bharat8856/Leetcode_java/tree/main/3174-clear-digits/) | Easy |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Bharat8856/Leetcode_java/tree/main/0020-valid-parentheses/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Bharat8856/Leetcode_java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bharat8856/Leetcode_java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
