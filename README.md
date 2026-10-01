@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Bharat8856/Leetcode_java/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Bharat8856/Leetcode_java/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/Bharat8856/Leetcode_java/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/Bharat8856/Leetcode_java/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Bharat8856/Leetcode_java/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bharat8856/Leetcode_java/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Bharat8856/Leetcode_java/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Bharat8856/Leetcode_java/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Bharat8856/Leetcode_java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Bharat8856/Leetcode_java/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Bharat8856/Leetcode_java/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
