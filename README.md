@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Bharat8856/Leetcode_java/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Bharat8856/Leetcode_java/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/Bharat8856/Leetcode_java/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Bharat8856/Leetcode_java/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Bharat8856/Leetcode_java/tree/master/0054-spiral-matrix) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Bharat8856/Leetcode_java/tree/main/0039-combination-sum/) | Medium |
 | [0077-combinations](https://github.com/Bharat8856/Leetcode_java/tree/master/0077-combinations) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Bharat8856/Leetcode_java/tree/master/0357-count-numbers-with-unique-digits) |
 ## Memoization
