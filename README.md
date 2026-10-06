@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bharat8856/Leetcode_java/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Bharat8856/Leetcode_java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Bharat8856/Leetcode_java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Bharat8856/Leetcode_java/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Bharat8856/Leetcode_java/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Bharat8856/Leetcode_java/tree/main/0217-contains-duplicate/) | Easy |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bharat8856/Leetcode_java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Bharat8856/Leetcode_java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Bharat8856/Leetcode_java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/Bharat8856/Leetcode_java/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Bharat8856/Leetcode_java/tree/master/0283-move-zeroes) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Bharat8856/Leetcode_java/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Bharat8856/Leetcode_java/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Bharat8856/Leetcode_java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Bharat8856/Leetcode_java/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Bharat8856/Leetcode_java/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -570,4 +573,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Bharat8856/Leetcode_java/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
