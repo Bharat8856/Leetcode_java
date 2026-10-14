@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Bharat8856/Leetcode_java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Bharat8856/Leetcode_java/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/Bharat8856/Leetcode_java/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Bharat8856/Leetcode_java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/Bharat8856/Leetcode_java/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Bharat8856/Leetcode_java/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bharat8856/Leetcode_java/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Bharat8856/Leetcode_java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Bharat8856/Leetcode_java/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Bharat8856/Leetcode_java/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Bharat8856/Leetcode_java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Bharat8856/Leetcode_java/tree/master/0242-valid-anagram) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Bharat8856/Leetcode_java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bharat8856/Leetcode_java/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Bharat8856/Leetcode_java/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/Bharat8856/Leetcode_java/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Bharat8856/Leetcode_java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Bharat8856/Leetcode_java/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Bharat8856/Leetcode_java/tree/master/0876-middle-of-the-linked-list) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bharat8856/Leetcode_java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Bharat8856/Leetcode_java/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Bharat8856/Leetcode_java/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Bharat8856/Leetcode_java/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0912-sort-an-array) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Bharat8856/Leetcode_java/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/Bharat8856/Leetcode_java/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 | Problem Name | Difficulty |
