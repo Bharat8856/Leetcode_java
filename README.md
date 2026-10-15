@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Bharat8856/Leetcode_java/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Bharat8856/Leetcode_java/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Bharat8856/Leetcode_java/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/Bharat8856/Leetcode_java/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Bharat8856/Leetcode_java/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 | Problem Name | Difficulty |
